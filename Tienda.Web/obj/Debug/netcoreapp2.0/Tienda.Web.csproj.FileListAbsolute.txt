@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.Web.deps.json
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.Web.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.Web.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.Web.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.Web.pdb
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.DataAccess.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.Models.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.DataAccess.pdb
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\bin\Debug\netcoreapp2.0\Tienda.Models.pdb
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\obj\Debug\netcoreapp2.0\Tienda.Web.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\obj\Debug\netcoreapp2.0\Tienda.Web.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\obj\Debug\netcoreapp2.0\Tienda.Web.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\obj\Debug\netcoreapp2.0\Tienda.Web.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\obj\Debug\netcoreapp2.0\Tienda.Web.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Web\obj\Debug\netcoreapp2.0\Tienda.Web.pdb

@@ -1,0 +1,41 @@
+﻿@model Tienda.Models.Registro
+@{ 
+    ViewData["Title"] = "Agregar";
+}
+<h2>Agregar nuevo Producto</h2>
+<p>Por favor ingrese los datos que se piden a Continuación</p>
+
+<form asp-action="Agregar" method="post">
+    <h3>Datos</h3>
+
+    <div class="form-group">
+        <label>Código</label>
+        <input asp-for="CodigoProducto" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Nombre</label>
+        <input asp-for="NombreProducto" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Cantidad</label>
+        <input asp-for="CantidadElementos" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Fecha de Ingreso</label>
+        <input asp-for="FechaIngreso" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Valor Máximo</label>
+        <input asp-for="PrecioMaximo" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Valor Mínimo</label>
+        <input asp-for="PrecioMinimo" class="form-control" />
+    </div>
+
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Guardar" />
+        <input class="btn btn-primary" type="button" value="Cancelar" />
+    </div>
+
+</form>

@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\bin\Debug\netstandard2.0\Tienda.Models.deps.json
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\bin\Debug\netstandard2.0\Tienda.Models.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\bin\Debug\netstandard2.0\Tienda.Models.pdb
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\obj\Debug\netstandard2.0\Tienda.Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\obj\Debug\netstandard2.0\Tienda.Models.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\obj\Debug\netstandard2.0\Tienda.Models.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\obj\Debug\netstandard2.0\Tienda.Models.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\obj\Debug\netstandard2.0\Tienda.Models.pdb
+C:\Users\LENOVO\source\repos\Tienda\Tienda.Models\obj\Debug\netstandard2.0\Tienda.Models.csprojResolveAssemblyReference.cache

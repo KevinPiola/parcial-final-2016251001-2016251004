@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\bin\Debug\netstandard2.0\Tienda.DataAccess.deps.json
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\bin\Debug\netstandard2.0\Tienda.DataAccess.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\obj\Debug\netstandard2.0\Tienda.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\obj\Debug\netstandard2.0\Tienda.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\obj\Debug\netstandard2.0\Tienda.DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\bin\Debug\netstandard2.0\Tienda.DataAccess.pdb
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\bin\Debug\netstandard2.0\Tienda.Models.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\bin\Debug\netstandard2.0\Tienda.Models.pdb
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\obj\Debug\netstandard2.0\Tienda.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\obj\Debug\netstandard2.0\Tienda.DataAccess.dll
+C:\Users\LENOVO\source\repos\Tienda\Tienda.DataAccess\obj\Debug\netstandard2.0\Tienda.DataAccess.pdb

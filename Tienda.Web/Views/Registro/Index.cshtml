@@ -1,0 +1,38 @@
+﻿@model List<Tienda.Models.Registro>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Listado de Productos</h2>
+
+<a asp-action="Agregar">Agregar nuevo Producto</a>
+
+<br /><br />
+
+<table class="table">
+    <tr>
+        <td align="center"><b>Código</b></td>
+        <td align="center"><b>Nombre</b></td>
+        <td align="center"><b>Cantidad Existente</b></td>
+        <td align="center"><b>Fecha de Ingreso</b></td>
+        <td align="center"><b>Valor Máximo</b></td>
+        <td align="center"><b>Valor Mínimo</b></td>
+        <td align="center"><b>(Opciones)</b></td>
+    </tr>
+    @foreach (var producto in Model)
+    {
+        <tr>
+            <td align="center">@producto.CodigoProducto</td>
+            <td align="center">@producto.NombreProducto</td>
+            <td align="center">@producto.CantidadElementos</td>
+            <td align="center">@producto.FechaIngreso</td>
+            <td align="center">@producto.PrecioMaximo</td>
+            <td align="center">@producto.PrecioMinimo</td>
+            <td align="center">
+                <a asp-action="Remover">Eliminar</a>
+            </td>
+
+        </tr>
+
+    }
+</table>
